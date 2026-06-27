@@ -1,0 +1,8 @@
+title: Create Happiness House
+url: https://www.createhappinesshouse.com
+baseurl: ""
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
